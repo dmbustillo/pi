@@ -1,3 +1,4 @@
+# calculates pi
 import pyspark
 import random
 NUM_SAMPLES=10000000
